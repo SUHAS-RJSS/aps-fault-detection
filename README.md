@@ -20,7 +20,6 @@ Git version
 git --version
 ```
 
-Test Text
 
 Git commands
 
@@ -49,10 +48,12 @@ Create commits
 git commit -m "message"
 ```
 
+To Push the Changes
 ```
 git push origin main
 ```
 Note : origin --> contains url to  your github repo 
+
 main --> is your branch name 
 
 To push  your changes forcefully.
@@ -65,5 +66,6 @@ To pull your changes from github repo
 git pull origin main
 ```
 Note : origin --> contains url to  your github repo 
+
 main --> is your branch name 
 
